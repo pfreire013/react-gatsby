@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/tulum.jpg",
+    "alt": "Tulum, Mexico",
+    "name": "Tulum, Mexico",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/paris.jpg",
+    "alt": "Paris, France",
+    "name": "Paris, France",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/bali.jpg",
+    "alt": "Bali, Indonesia",
+    "name": "Bali, Indonesia",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/egypt.jpg",
+    "alt": "Cairo, Egito",
+    "name": "Cairo, Egito",
+    "button": "View Destination"
+  }
+]
